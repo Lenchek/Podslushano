@@ -3,4 +3,4 @@ Social network course project <br>
 Презентация, два ноутбука и два графа в html <br>
 
 
-![](https://github.com/Lenchek/Podslushano/blob/master/2020-12-29_22-12-05.png?raw=true)
+![Презентация](https://github.com/Lenchek/Podslushano/blob/master/Презентация.pdf?raw=true)
